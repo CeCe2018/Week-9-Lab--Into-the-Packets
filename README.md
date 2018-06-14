@@ -47,7 +47,20 @@ SSH and SCP Challenges
 Why is key authentication preferred to passwords?
 What is the syntax for copying a file from a local folder to a remote one?
 
+![screenshot 109](https://user-images.githubusercontent.com/23458001/41393663-af9e1286-6f5b-11e8-9e4e-e1073858d843.png)
+![screenshot 110](https://user-images.githubusercontent.com/23458001/41393664-afb39890-6f5b-11e8-881f-93f068206116.png)
+![screenshot 111](https://user-images.githubusercontent.com/23458001/41393665-afc963dc-6f5b-11e8-97a9-748febc4d82e.png)
+![screenshot 112](https://user-images.githubusercontent.com/23458001/41393666-afe09bce-6f5b-11e8-86d9-c9d0f57aac41.png)
+![screenshot 113](https://user-images.githubusercontent.com/23458001/41393667-b00c2596-6f5b-11e8-8785-dfe833289359.png)
+![screenshot 114](https://user-images.githubusercontent.com/23458001/41393668-b0224a92-6f5b-11e8-99e5-103730fa9fa2.png)
+![screenshot 115](https://user-images.githubusercontent.com/23458001/41393669-b04bebae-6f5b-11e8-8027-d7371c0c3272.png)
+![screenshot 116](https://user-images.githubusercontent.com/23458001/41393671-b06dbef0-6f5b-11e8-8812-d2b6e081aecc.png)
+![screenshot 117](https://user-images.githubusercontent.com/23458001/41393672-b0903f02-6f5b-11e8-8771-908e1896ba9f.png)
+![screenshot 118](https://user-images.githubusercontent.com/23458001/41393673-b0a6964e-6f5b-11e8-8004-0a53c9ffda51.png)
+
 #Milestone 1: Security-Flavored Net Tools
+
+![screenshot 118](https://user-images.githubusercontent.com/23458001/41393673-b0a6964e-6f5b-11e8-8004-0a53c9ffda51.png)
 
 #Challenge 1: Run nmap against your localhost IP to see all open ports
 

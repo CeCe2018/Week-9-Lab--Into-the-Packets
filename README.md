@@ -87,13 +87,15 @@ Look at the tcpdump output for the UDP packets trying to resolve the domain. The
 
 #Milestone 3: Hello, Wireshark
 
-![screenshot 125](https://user-images.githubusercontent.com/23458001/41394068-65f09468-6f5d-11e8-8b5d-9abd33408dfe.png)
+
 
 #Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird
 
-
+![screenshot 124](https://user-images.githubusercontent.com/23458001/41394193-ed852948-6f5d-11e8-8704-ddffaa3569d3.png)
 
 #Milestone 5: Traffic Analysis — Mystery Meat Malware
+
+![screenshot 125](https://user-images.githubusercontent.com/23458001/41394068-65f09468-6f5d-11e8-8b5d-9abd33408dfe.png)
 
 #Milestone 6: Wi-Fi Hacking — Crack a Handshake
 

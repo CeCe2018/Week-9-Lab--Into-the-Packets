@@ -87,9 +87,11 @@ Look at the tcpdump output for the UDP packets trying to resolve the domain. The
 
 #Milestone 3: Hello, Wireshark
 
-
+![screenshot 125](https://user-images.githubusercontent.com/23458001/41394068-65f09468-6f5d-11e8-8b5d-9abd33408dfe.png)
 
 #Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird
+
+
 
 #Milestone 5: Traffic Analysis — Mystery Meat Malware
 

@@ -69,6 +69,10 @@ Hint: try shutting down Docker or Virtualbox and re-running nmap
 
 #Milestone 2: Grabbing Packets with tcpdump
 
+![screenshot 119](https://user-images.githubusercontent.com/23458001/41393833-6d3d578e-6f5c-11e8-90a1-7bb55b5a2bdc.png)
+![screenshot 120](https://user-images.githubusercontent.com/23458001/41393834-6d52871c-6f5c-11e8-8879-79d2229d0a65.png)
+![screenshot 121](https://user-images.githubusercontent.com/23458001/41393835-6d68bf46-6f5c-11e8-8fd9-73281499269a.png)
+
 #Challenge 1: Determine the IP address for codepath.com and use tcpdump to display packets with that IP as the destination. Then open http://www.codepath.com in the browser and check the output. Notice the output displays the HTTP requests in addition to the packets.
 
 How many requests to load the main codepath.com page?
@@ -82,6 +86,8 @@ Think of a domain name that probably exists (common word or phrase + .com) but t
 Look at the tcpdump output for the UDP packets trying to resolve the domain. The destination IP should be the DNS
 
 #Milestone 3: Hello, Wireshark
+
+
 
 #Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird
 

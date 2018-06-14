@@ -103,4 +103,6 @@ Look at the tcpdump output for the UDP packets trying to resolve the domain. The
 
 Milestone 7: Wi-Fi Hacking — Grab a Handshake\
 
+![screenshot 125](https://user-images.githubusercontent.com/23458001/41394068-65f09468-6f5d-11e8-8b5d-9abd33408dfe.png)
+
 
